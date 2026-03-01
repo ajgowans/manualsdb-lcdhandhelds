@@ -1,1 +1,3 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/TomyScramble/Tomy Scramble Manual.pdf.pdf,https://archive.org/download/mister-manuals-db/1976_Dedicated%20handhelds/Scramble%20%28Tomy%29.pdf,792509,8beb6225e7dce2218590a3b8905b6965,,,
+docs/TomyScramble/Epoch Galaxy II Manual.pdf.pdf,https://archive.org/download/mister-manuals-db/1976_Dedicated%20handhelds/Galaxy%20II%20%28Epoch%29.pdf,295772,2959983b96531f93109785c2fbbf9dec,,,
