@@ -1,4 +1,4 @@
-# The MiSTer Manuals DB - Tomy Pyuuta Jr.
+# The MiSTer Manuals DB - LCD Handhelds
 
 This is a database for the MiSTer project that downloads the English manuals in .pdf form for LCD Handhelds to the docs folder, which can be loaded from the OSD within th core by selecting "Help".
 
